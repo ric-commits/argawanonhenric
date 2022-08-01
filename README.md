@@ -1,6 +1,6 @@
-                                                    Hi there, I'm Henric 😎 👋
-                                                                 
-   A person that is passionate on web development💻 and hoping to become a developer🤵 someday. 
+ ### Hi there, I'm Henric 😎 👋
+ >>>>                                                                
+   A person who loves to code 💻 and hoping to become a web developer🤵 someday. 
                                                                          
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning web development
