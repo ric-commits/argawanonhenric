@@ -1,8 +1,4 @@
  ### Hi there, I'm Henric 😎 👋
  >>>>                                                                
-   A person who loves tech stuffs 💻 and hoping to become a web developer🤵 someday. 
-                                                                         
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning web development
-- 👯 I’m looking forward to collaborate on other web developers..
+   A person who loves tech stuffs 💻 
 
